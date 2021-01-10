@@ -59,6 +59,8 @@ grid_z2 = griddata(points, ar_all, (xgrid, ygrid), method='linear')
 cf = np.linspace(0.5,12.0,num=23)
 
 # plot
+fig,ax = plt.subplots()
+
 # ExaSeis data
 cntr1 = ax.contour(np.transpose(grid_z2),cf,cmap='plasma')
 # WaveQLab data
