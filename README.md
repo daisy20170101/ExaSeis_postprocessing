@@ -15,3 +15,6 @@ $$ python PltContour.py
 
 (create a plot for comparison of contour plot. WaveQLab contour data is written in contour/waveq_conf.data.  Please change the x- and y-range accordingly to the coorodinates in ExaSeis)
 
+![image](https://github.com/daisy20170101/ExaSeis_postprocessing/blob/main/figures/fault_out.png)
+
+
