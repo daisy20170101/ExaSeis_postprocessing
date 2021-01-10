@@ -17,4 +17,4 @@ $$ python PltContour.py
 
 ![image](https://github.com/daisy20170101/ExaSeis_postprocessing/blob/main/figures/fault_contour.png)
 
-
+Figure. Comparison of rupture contour for SCEC [TPV5](https://strike.scec.org/cvws/tpv5docs.html)
