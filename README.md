@@ -10,7 +10,7 @@ $$ pvpython LoadContourData.py
 
 (create a fault_out.csv file containing arrival time for each points on the fault)
 
-### Plot contour of arrival time and make a comparison with SCEC benchmark
+### Plot rupture contours and make a comparison with SCEC benchmark
 $$ python PltContour.py
 
 (create a plot for comparison of contour plot. WaveQLab contour data is written in contour/waveq_conf.data.  Please change the x- and y-range accordingly to the coorodinates in ExaSeis)
